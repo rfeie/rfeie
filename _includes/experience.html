@@ -1,0 +1,39 @@
+    <section id="experience">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Experience</h2>
+                     <h3 class="section-subheading text-muted">Where I have worked and learned.</h3>
+                 </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                       {% for work in site.author.experience %}
+                            <li>
+
+                                <div class="timeline-panel">
+                                    <div class="timeline-heading">
+                                        <h4>{{ work.duration }}</h4>
+                                        <h4 class="subheading">{{ work.title }}</h4>
+                                    </div>
+                                    <div class="timeline-body">
+                                        <p class="text-muted">{{ work.company }}</p>
+                                    </div>
+
+
+                                </div>
+                            </li>
+                        {% endfor %}
+ <!--                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>Be Part
+                                    <br>Of Our
+                                    <br>Story!</h4>
+                            </div>
+                        </li> -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>

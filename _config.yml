@@ -1,0 +1,76 @@
+# Site settings
+title: Robert Gunner Feie
+email: robert.gunner.feie@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "http://rfeie.com" # the subpath of your site, e.g. /blog/
+url: "http://rfeie.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username: rfeie
+linkedin: rfeie
+name: Robert Gunner Feie
+# Build settings
+markdown: kramdown
+
+# Resume Info
+author:
+    name: Robert Feie
+    classes:
+        - provider: The Odin Project
+          description: Working through. Covering Ruby programming, Rails, HTML5 and JavaScript.
+        - provider: Coursera
+          class_name: Startup Engineering
+        - provider: Stanford Class2Go
+          class_name: Introduction to Databases
+        - provider: Aquent
+          class_name: Responsive Web Design & jQuery
+    skills:
+        - name: Ruby on Rails
+          skill_level: 5
+        - name: Ruby
+          skill_level: 5
+        - name: JavaScript
+          skill_level: 5
+        - name: Responsive Web Design
+          skill_level: 5
+        - name: HTML5
+          skill_level: 5
+        - name: CSS3
+          skill_level: 5
+        - name: Regular Expressions
+          skill_level: 5
+        - name: SQL
+          skill_level: 5
+    experience:
+        - company: Brandmuscle Inc.
+          title: Senior Technical Manager
+          started: 2015
+          duration: April 2015 - Present
+          description: Senior Technical Manager
+        - company: Brandmuscle Inc.
+          title: Technical Manager
+          started: 2014
+          duration: March 2014 - April 2015
+          description: Technical Manager
+        - company: Brandmuscle Inc.
+          title: Creative Services Engineer
+          started: 2012    
+          duration: Aug 2012 - March 2014
+          description: Creative Services Engineer
+        - company: Brandmuscle Inc.
+          title: Senior Graphic Specialist
+          started: 2011
+          duration: July 2011 - Aug 2012
+          description: Senior Graphic Specialist
+        - company: Brandmuscle Inc.
+          title: Graphic Specialist
+          started: 2015
+          duration: Feb 2011 - July 2011
+          description: Graphic Specialist
+        - company: Brandmuscle Inc.
+          title: Intern
+          started: 2010
+          duration: June 2010 - Feb 2011
+          description: Intern
