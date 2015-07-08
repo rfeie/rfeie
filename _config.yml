@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "http://rfeie.com" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rfeie.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username: rfeie
@@ -19,7 +19,7 @@ author:
     name: Robert Feie
     classes:
         - provider: The Odin Project
-          description: Working through. Covering Ruby programming, Rails, HTML5 and JavaScript.
+          description: Currently working through. Covering Ruby programming, Rails, HTML5 and JavaScript.
         - provider: Coursera
           class_name: Startup Engineering
         - provider: Stanford Class2Go
@@ -59,17 +59,17 @@ author:
           started: 2012    
           duration: Aug 2012 - March 2014
           description: Creative Services Engineer
-        - company: Brandmuscle Inc.
+        - company: Brandmuscle Inc. (formerly Centiv Services)
           title: Senior Graphic Specialist
           started: 2011
           duration: July 2011 - Aug 2012
           description: Senior Graphic Specialist
-        - company: Brandmuscle Inc.
+        - company: Brandmuscle Inc. (formerly Centiv Services)
           title: Graphic Specialist
           started: 2015
           duration: Feb 2011 - July 2011
           description: Graphic Specialist
-        - company: Brandmuscle Inc.
+        - company: Brandmuscle Inc. (formerly Centiv Services)
           title: Intern
           started: 2010
           duration: June 2010 - Feb 2011
