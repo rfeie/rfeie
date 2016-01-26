@@ -914,3 +914,11 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #77c9b0;
 }
+
+
+.tooltip.top .tooltip-inner {
+    background-color:#77c9b0;
+}
+.tooltip.top .tooltip-arrow {
+      border-top-color: #77c9b0;
+}
