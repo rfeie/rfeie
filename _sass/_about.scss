@@ -1,0 +1,57 @@
+.about-background {
+  $base-border-radius: 3px !default;
+  $action-color: #477DCA !default;
+  $large-screen: 53.75em !default;
+  $about-padding-vertical: 5em;
+  $about-padding-horizontal: 0.4em;
+  $about-screen-width: 14em;
+  $about-screen-height: 25em;
+  $about-background: darken(gray, 40%);
+  $about-backside-background: darken($about-background, 10%);
+  $about-text-color: $text-color;
+  $about-background-top: #162C4C;
+  $about-background-bottom: #0A120D;
+  $gradient-angle: 10deg;
+  $about-screen-image: "assets/rgf.jpg";
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 20em;
+  width: 100%;
+
+  .about-text {
+    padding: 2em;
+
+    @include media($large-screen) {
+      float: right;
+      max-width: 50%;
+      padding: 4em;
+    }
+
+    h4 {
+      border-bottom: 1px solid transparentize($about-text-color, 0.7);
+      color: $about-text-color;
+      font-size: 1.5em;
+      margin: 0 0 0.5em 0;
+      padding-bottom: 0.5em;
+    }
+
+    p {
+      color: $about-text-color;
+      line-height: 1.5em;
+      margin-bottom: 1.5em;
+    }
+  }
+
+  .portrait {
+    position: relative;
+
+    @include media($large-screen) {
+      float: left;
+			max-width: 50%;
+      z-index: 99999;
+
+    }
+  }
+}
+

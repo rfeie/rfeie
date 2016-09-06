@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<div class="container">
+<h1>Field Notes</h1>
+<p>Named after the <a href="https://fieldnotesbrand.com/">notebooks</a>, these are meant to be small ideas or quotes that jumped out at me while I was reading a book, listening to a podcast, browsing twitter or a blog article. <p>
+<div class="cards">
+  {% for post in site.posts  %}
+  {% if post.type =="field-note"%}
+  <div class="card">
+    <div class="note-header">
+			{{ post.title }}
+		</div>
+    <div class="card-copy">
+			{{ post.content }}
+    </div>
+    <div class="note-tags">
+			<ul class="tags">
+			{% for tag in post.tags %}
+				<li><a href="#" class="tag">{{ tag }}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
+  </div>
+
+  {% endif %}
+  {% endfor %}
+</div>
+</div>

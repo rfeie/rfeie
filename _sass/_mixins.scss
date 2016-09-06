@@ -1,0 +1,6 @@
+@mixin header-font {
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-family: $sans-serif;
+}

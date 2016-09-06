@@ -1,0 +1,45 @@
+.hero {
+  align-items: center;
+  background: url("../assets/background.jpg");
+  background-position: right;
+  background-size: none;
+  display: flex;
+  justify-content: center;
+  min-height: 25em;
+  padding: 2em;
+
+  @include media($large-screen-up) {
+    background-position: left;
+    background-size: cover;
+    justify-content: flex-end;
+  }
+
+	h2 {
+		font-size: 3.5em;
+		margin-bottom: .15em;
+
+		@include media($large-screen-up) {
+			font-size: 5em;
+		}
+	}
+
+	p {
+		font-size: 1.5em;
+    font-family: "Nunito", sans-serif;
+	}
+
+  .hero-content {
+    text-align: center;
+
+    @include media($large-screen-up) {
+			padding: 1em;
+			margin-left:20em;
+      text-align: left;
+    }
+  }
+
+  .hero-logo {
+    margin: auto;
+  }
+}
+

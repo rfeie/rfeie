@@ -1,0 +1,24 @@
+$large-screen-up: 900px;
+$medium-screen-up: 700px;
+
+
+$grid-columns: 4;
+$max-width: 1200px;
+$medium-screen-width: 700px;
+$large-screen-width: 900px;
+$medium-screen-up: new-breakpoint(min-width $medium-screen-width 8);
+$large-screen-up: new-breakpoint(min-width $large-screen-width 12);
+
+$light-white: #feffff;
+$baby-blue: #98dafc;
+$light-brown: #daad86;
+$dark-black: #312c32;
+
+
+$background-color: $light-white;
+$secondary-color: $light-brown;
+$accent-color: $baby-blue;
+$text-color: $dark-black;
+
+$sans-serif: "Nunito", sans-serif;
+$sans-serif-2: "Varela Round", sans-serif;

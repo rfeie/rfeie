@@ -2,39 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Gunner Feie</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Website and blog for Robert Gunner Feie
 </description>
     <link>http://rfeie.com/</link>
     <atom:link href="http://rfeie.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jan 2016 07:13:55 -0600</pubDate>
-    <lastBuildDate>Tue, 26 Jan 2016 07:13:55 -0600</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Mon, 05 Sep 2016 22:55:17 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2016 22:55:17 -0500</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Welcome to My New Site!</title>
+        <description>&lt;p&gt;Good morning/afternoon/evening to whoever you are. 
+Welcome to my new site. &lt;!--more--&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;If you have read my about page I am sure you know I am a self-taight programmer. And as I have started to learn more and travelled further off the tutorial-beaten-path I realized I can share some of the knowledge I am starting to accrue with the hope of benefitting someone, somewhere.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;A couple notes about this site. This site is a staticly generated site written in Jekyll and hosted on &lt;a href=&quot;https://github.com/rfeie/rfeie.github.io&quot;&gt;Github&lt;/a&gt;. I used the &lt;a href=&quot;http://bourbon.io/&quot;&gt;Bourbon&lt;/a&gt; and &lt;a href=&quot;http://neat.bourbon.io/&quot;&gt;Neat&lt;/a&gt; as well as &lt;a href=&quot;http://refills.bourbon.io/&quot;&gt;Refills&lt;/a&gt; to scaffold it together.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;What you can expect from me in the near future:
+* Updates on a Rails app that uses the Google Calendar API
+* Updates on learning Angular 2 and a front-end JavaScript framework in general
+* Work on updating Adobe InDesign JavaScript&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 06 Jul 2015 07:28:02 -0500</pubDate>
-        <link>http://rfeie.com/jekyll/update/2015/07/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://rfeie.com/jekyll/update/2015/07/06/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 03 Sep 2016 19:35:09 -0500</pubDate>
+        <link>http://rfeie.com/2016/09/03/blog-welcome-to-my-new-site.html</link>
+        <guid isPermaLink="true">http://rfeie.com/2016/09/03/blog-welcome-to-my-new-site.html</guid>
+        
+        <category>news</category>
         
         
-        <category>jekyll</category>
+      </item>
+    
+      <item>
+        <title>Anything you don't own wrap in a class or adapter</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://thoughtbot.com/upcase/&quot;&gt;upcase.com&lt;/a&gt; Weekly iteration on testing APIs&lt;/p&gt;
+
+&lt;p&gt;Ideally if you are interacting with the outside world either through APIs or outside gems you should be putting your connection to it into a wrapper or adapter class. This creates an internal API for the outside source you can control. So if you want to substitute the what is in the wrapper or if the outside API changes you have a central place to change or fix.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Aug 2016 19:35:09 -0500</pubDate>
+        <link>http://rfeie.com/2016/08/18/fn-wrapping-an-api.html</link>
+        <guid isPermaLink="true">http://rfeie.com/2016/08/18/fn-wrapping-an-api.html</guid>
         
-        <category>update</category>
+        <category>testing</category>
+        
+        <category>api</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Testing is the canary in the coal mine. If testing is hard, refactor the code.</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.poodr.com//&quot;&gt;Practical Object-Oriented Design in Ruby&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a type of code smell. If you are trying to test a part or all of your program and you are having a lot of trouble it should be a warning sign that the code is either not well structured or you need to consider refactoring the portion that is giving you trouble.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Aug 2016 19:35:09 -0500</pubDate>
+        <link>http://rfeie.com/2016/08/18/fn-testing-canary-in-coal-mine.html</link>
+        <guid isPermaLink="true">http://rfeie.com/2016/08/18/fn-testing-canary-in-coal-mine.html</guid>
+        
+        <category>testing</category>
+        
+        <category>clean-code</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Keep Controllers Simple, ideally you should restrict yourself to the seven basic verbs</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://thoughtbot.com/upcase/&quot;&gt;upcase.com&lt;/a&gt; TDD Rails Trail&lt;/p&gt;
+
+&lt;p&gt;This is a short-hand rule or code smell in Rails to avoid putting too much responsibility in the controller. Any Model related code should go into the model. And if you have a lot of extra responsibility in a controller consider refactoring that responsiblity into another controller.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Aug 2016 19:35:09 -0500</pubDate>
+        <link>http://rfeie.com/2016/08/18/fn-keep-controllers-simple-seven-verbs.html</link>
+        <guid isPermaLink="true">http://rfeie.com/2016/08/18/fn-keep-controllers-simple-seven-verbs.html</guid>
+        
+        <category>ruby-on-rails</category>
+        
+        <category>clean-code</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Errors handling should be foundational to your program</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/8th-light-university/events/232280756/&quot;&gt;8th Light University&lt;/a&gt; Facing Failure&lt;/p&gt;
+
+&lt;p&gt;How your programs handles errors should be as well thought out as how you structure any other large part of your program. Errors are often forgotten or intermingled in the execution code. Making the program hard to reason and hard to update.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Aug 2016 19:35:09 -0500</pubDate>
+        <link>http://rfeie.com/2016/08/18/fn-errors-as-values.html</link>
+        <guid isPermaLink="true">http://rfeie.com/2016/08/18/fn-errors-as-values.html</guid>
+        
+        <category>clean-code</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Code should be designed like a M&amp;M.</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/8th-light-university/events/232280756/&quot;&gt;8th Light University&lt;/a&gt; Facing Failure&lt;/p&gt;
+
+&lt;p&gt;Ultimately this is related to separation of concerns. This imagines a program as a M&amp;amp;M With the center being what you want the code to do and the candy shell handling the connection outside world, this includes security, data access, and error handling.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Aug 2016 19:35:09 -0500</pubDate>
+        <link>http://rfeie.com/2016/08/18/fn-designing-code-candy-bar.html</link>
+        <guid isPermaLink="true">http://rfeie.com/2016/08/18/fn-designing-code-candy-bar.html</guid>
+        
+        <category>clean-code</category>
+        
         
       </item>
     
