@@ -6,8 +6,8 @@
 </description>
     <link>http://rfeie.com/</link>
     <atom:link href="http://rfeie.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Sep 2016 22:59:33 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Sep 2016 22:59:33 -0500</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2016 23:20:34 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2016 23:20:34 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -19,10 +19,13 @@ Welcome to my new site. &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;A couple notes about this site. This site is a staticly generated site written in Jekyll and hosted on &lt;a href=&quot;https://github.com/rfeie/rfeie.github.io&quot;&gt;Github&lt;/a&gt;. I used the &lt;a href=&quot;http://bourbon.io/&quot;&gt;Bourbon&lt;/a&gt; and &lt;a href=&quot;http://neat.bourbon.io/&quot;&gt;Neat&lt;/a&gt; as well as &lt;a href=&quot;http://refills.bourbon.io/&quot;&gt;Refills&lt;/a&gt; to scaffold it together.&lt;/p&gt;
 
-&lt;p&gt;What you can expect from me in the near future:
-* Updates on a Rails app that uses the Google Calendar API
-* Updates on learning Angular 2 and a front-end JavaScript framework in general
-* Work on updating Adobe InDesign JavaScript&lt;/p&gt;
+&lt;p&gt;What you can expect from me in the near future:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Updates on a Rails app that uses the Google Calendar API&lt;/li&gt;
+  &lt;li&gt;Updates on learning Angular 2 and a front-end JavaScript framework in general&lt;/li&gt;
+  &lt;li&gt;Work on updating Adobe InDesign JavaScript scripts&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Sat, 03 Sep 2016 19:35:09 -0500</pubDate>

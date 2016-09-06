@@ -29,6 +29,7 @@
 	}
 
   .hero-content {
+    display: none;
     text-align: center;
 
     @include media($large-screen-up) {

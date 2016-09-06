@@ -30,6 +30,7 @@ $(document).ready(function() {
   } else {
     greeting.text("Good Morning,");
   }
+  $('.hero-content').fadeIn(700);
 });
 
 // ---

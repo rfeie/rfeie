@@ -16,9 +16,10 @@ If you have read my about page I am sure you know I am a self-taight programmer.
 A couple notes about this site. This site is a staticly generated site written in Jekyll and hosted on [Github][site-repo]. I used the [Bourbon][bourbon] and [Neat][neat] as well as [Refills][refills] to scaffold it together. 
 
 What you can expect from me in the near future:
-* Updates on a Rails app that uses the Google Calendar API
-* Updates on learning Angular 2 and a front-end JavaScript framework in general
-* Work on updating Adobe InDesign JavaScript
+
+- Updates on a Rails app that uses the Google Calendar API
+- Updates on learning Angular 2 and a front-end JavaScript framework in general
+- Work on updating Adobe InDesign JavaScript scripts
 
 
 [site-repo]: https://github.com/rfeie/rfeie.github.io
