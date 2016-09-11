@@ -31,4 +31,14 @@ h2 {
 
 a {
   color: $secondary-color;
+	&:hover, &:visited {
+		color: darken($secondary-color, 30%);
+	}
+}
+
+figure.highlight pre code {
+  display: block;
+  white-space: inherit;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }

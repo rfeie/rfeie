@@ -21,7 +21,6 @@
   $base-border-radius: 3px !default;
   $base-background-color: $background-color;
   $base-spacing: 1.5em !default;
-  $action-color: #477DCA !default;
   $dark-gray: #333 !default;
   $base-font-color: $dark-gray !default;
   $card-border-color: $base-border-color;
@@ -43,6 +42,8 @@
   margin: 0 $card-margin $base-spacing $card-margin;
   position: relative;
   transition: all 0.2s ease-in-out;
+  flex-direction: column;
+  display: flex;
 
   .field-note {
     padding: ($base-spacing / 3) ($base-spacing / 2);
@@ -83,7 +84,7 @@
     font-size: 0.9em;
     line-height: 1.5em;
     padding: ($base-spacing / 2) ($base-spacing / 2);
-		
+    flex: 2;
 		a {
 			color: $secondary-color;
 		}

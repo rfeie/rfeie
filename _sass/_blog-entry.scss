@@ -1,0 +1,17 @@
+.blog-body ul, .blog-body ol {
+		list-style-type: inherit;
+    padding-left: 2.5em;
+    margin-bottom: 1.5em;
+    font-style: normal;
+	li {
+		font-weight: 300;
+	}
+}
+
+.blog-tags {
+	li {
+		display: inline;
+		padding-right: 2px;
+		font-size: 1em;
+	}
+}

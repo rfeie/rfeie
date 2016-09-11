@@ -11,11 +11,13 @@
 @import "variables";
 @import "type";
 @import "mixins";
+@import "syntax";
 
 @import "global";
 
 @import "header";
 @import "about";
+@import 'blog-entry';
 @import "contact";
 @import "hero";
 @import "grid";
