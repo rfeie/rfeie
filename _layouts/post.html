@@ -10,7 +10,7 @@ layout: default
     <div class="blog-tags">
 			<ul class="tags">
 			{% for tag in page.tags %}
-				<li><a href="#" class="tag">{{ tag }}</a></li>
+      <li><a href="/tag.html#{{tag | slugify}}" class="tag">{{ tag }}</a></li>
 			{% endfor %}
 			</ul>
 		</div>

@@ -1,0 +1,15 @@
+<div class="card">
+  <div class="note-header">
+    {{ post.title }}
+  </div>
+  <div class="card-copy">
+    {{ post.content }}
+  </div>
+  <div class="note-tags">
+    <ul class="tags">
+    {% for tag in post.tags %}
+      <li><a href="/tag.html#{{tag | slugify}}" class="tag">{{ tag }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>

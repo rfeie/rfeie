@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: field-note
 title:  "Keep Controllers Simple, ideally you should restrict yourself to the seven basic verbs"
 date:   2016-08-18 19:35:09 -0500
 type: "field-note"

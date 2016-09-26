@@ -3,19 +3,8 @@ layout: default
 ---
 <div class="container">
   {% for post in site.posts  %}
-  {% if post.type =="blog"%}
-
-    <article class="type-system-rounded blog-entry front-page">
-      <p class="type">{{ post.display-category }}</p>
-      <h1>{{ post.title }} </h1>
-      <h2>{{ post.description }}</h2>
-      <p class="date"> {{ post.date | date: '%B %d, %Y' }}</p>
-      <p>
-      {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-      <a href="{{ post.url }}" class="read-more">Read More <span>&rsaquo;</span></a>
-      </p>
-    </article>
-
-  {% endif %}
+    {% if post.type =="blog"%}
+      {% include post.html %}
+    {% endif %}
   {% endfor %}
 </div>

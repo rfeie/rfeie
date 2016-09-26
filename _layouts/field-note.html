@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="card">
+    <div class="note-header">
+			{{ page.title }}
+		</div>
+    <div class="card-copy">
+			{{ page.content }}
+    </div>
+    <div class="note-tags">
+			<ul class="tags">
+			{% for tag in page.tags %}
+      <li><a href="/tag.html#{{ tag | slugify }}" class="tag">{{ tag }}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
+  </div>
+</div>

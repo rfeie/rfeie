@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: field-note
 title:  "Find an area noone cares about and care about it a lot"
 date:   2016-08-18 19:35:09 -0500
 type: "field-note"
