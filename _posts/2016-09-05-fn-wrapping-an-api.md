@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: field-note
 title:  "Anything you don't own wrap in a class or adapter"
 date:   2016-08-18 19:35:09 -0500
 type: "field-note"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: field-note
 title:  "Testing is the canary in the coal mine. If testing is hard, refactor the code."
 date:   2016-08-18 19:35:09 -0500
 type: "field-note"

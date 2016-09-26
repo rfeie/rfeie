@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: field-note
 title:  "Errors handling should be foundational to your program"
 date:   2016-08-18 19:35:09 -0500
 type: "field-note"

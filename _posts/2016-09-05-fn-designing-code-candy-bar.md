@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: field-note
 title:  "Code should be designed like a M&M."
 date:   2016-08-18 19:35:09 -0500
 type: "field-note"
