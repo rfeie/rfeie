@@ -6,9 +6,38 @@
 </description>
     <link>http://rfeie.com/</link>
     <atom:link href="http://rfeie.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Nov 2016 14:38:00 -0600</pubDate>
-    <lastBuildDate>Sun, 06 Nov 2016 14:38:00 -0600</lastBuildDate>
+    <pubDate>Sun, 30 Jul 2017 18:46:27 -0500</pubDate>
+    <lastBuildDate>Sun, 30 Jul 2017 18:46:27 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>omg I am back</title>
+        <description>&lt;p&gt;🎶It’s been a while 🎶&lt;!--more--&gt; since I have posted! But I have a good reason:
+in mid-February I accepted a full-time position as a Front End Developer. Since
+then I have been focusing my energy on learning all I can about the ecosystem.&lt;/p&gt;
+
+&lt;p&gt;Now I am getting back into blogging into the void. Here are some things you can
+look forward ti hearing from me on in the future:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Updates on what I have been learning and reading&lt;/li&gt;
+  &lt;li&gt;What I have been working on.&lt;/li&gt;
+  &lt;li&gt;Blog redesign using [gatsby][https://www.gatsbyjs.org/]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Soon I will be talking about my new project using React and Electron to build a
+Menu bar app.&lt;/p&gt;
+
+&lt;p&gt;Talk to you soon!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Jul 2017 07:33:00 -0500</pubDate>
+        <link>http://rfeie.com/2017/07/30/blog-omg-i-am-back.html</link>
+        <guid isPermaLink="true">http://rfeie.com/2017/07/30/blog-omg-i-am-back.html</guid>
+        
+        <category>news</category>
+        
+        
+      </item>
     
       <item>
         <title>Self-Taught Programmer Part 1: Choose your own adventure</title>
@@ -402,22 +431,6 @@ Welcome to my new site. &lt;!--more--&gt;&lt;/p&gt;
         <pubDate>Thu, 18 Aug 2016 19:35:09 -0500</pubDate>
         <link>http://rfeie.com/2016/08/18/fn-errors-as-values.html</link>
         <guid isPermaLink="true">http://rfeie.com/2016/08/18/fn-errors-as-values.html</guid>
-        
-        <category>clean-code</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Code should be designed like a M&amp;M.</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/8th-light-university/events/232280756/&quot;&gt;8th Light University&lt;/a&gt; Facing Failure&lt;/p&gt;
-
-&lt;p&gt;Ultimately this is related to separation of concerns. This imagines a program as a M&amp;amp;M With the center being what you want the code to do and the candy shell handling the connection outside world, this includes security, data access, and error handling.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 18 Aug 2016 19:35:09 -0500</pubDate>
-        <link>http://rfeie.com/2016/08/18/fn-designing-code-candy-bar.html</link>
-        <guid isPermaLink="true">http://rfeie.com/2016/08/18/fn-designing-code-candy-bar.html</guid>
         
         <category>clean-code</category>
         
